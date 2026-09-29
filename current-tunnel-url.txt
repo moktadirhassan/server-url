@@ -1,1 +1,1 @@
-https://signals-sensor-adventures-arthritis.trycloudflare.com
+https://api.trycloudflare.com
