@@ -1,1 +1,1 @@
-https://missouri-tourism-sacred-customs.trycloudflare.com
+https://api.trycloudflare.com
