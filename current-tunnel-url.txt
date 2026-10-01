@@ -1,1 +1,1 @@
-https://elephant-burn-content-recently.trycloudflare.com
+https://api.trycloudflare.com
