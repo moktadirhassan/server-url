@@ -1,1 +1,1 @@
-https://sister-amazing-persons-islamic.trycloudflare.com
+https://api.trycloudflare.com
