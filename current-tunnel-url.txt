@@ -1,1 +1,1 @@
-https://reed-moscow-crossword-staff.trycloudflare.com
+https://api.trycloudflare.com
