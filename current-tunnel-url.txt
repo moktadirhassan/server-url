@@ -1,1 +1,1 @@
-https://typical-demographic-believes-victoria.trycloudflare.com
+https://api.trycloudflare.com
