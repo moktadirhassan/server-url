@@ -1,1 +1,1 @@
-https://amino-mortgage-mix-candy.trycloudflare.com
+https://api.trycloudflare.com
