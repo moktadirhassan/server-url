@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://lobby-educated-strict-intersection.trycloudflare.com
