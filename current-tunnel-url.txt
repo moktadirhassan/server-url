@@ -1,1 +1,1 @@
-https://robust-consistency-list-folks.trycloudflare.com
+https://api.trycloudflare.com
